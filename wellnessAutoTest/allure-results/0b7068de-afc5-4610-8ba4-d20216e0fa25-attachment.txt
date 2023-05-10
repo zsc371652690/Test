@@ -1,0 +1,1 @@
+{"timestamp":"2023-04-03 15:22:47","path":"/api/ck/pass/autoPass","status":404,"error":"Not Found","message":null,"requestId":"fe6bccab-22487"}
